@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>🎓 BCA Graduate | Aspiring Data Scientist & Python Developer<br><br>- 🔭 I'm currently working on SQL Queries, Database Management, and Python Projects<br>- 🤝 I'm open to collaborating on Data Science, Python, Machine Learning, and API Development Projects<br>- 🌱 I'm currently learning Python, SQL, Data Science, and REST APIs<br>- 🐍 Exploring Python Libraries like NumPy, Pandas, Matplotlib, and Seaborn<br>- 🤖 Learning Machine Learning, Data Preprocessing, Data Visualization, and Statistical Analysis<br>- 🗄️ Working with MySQL, SQL Server, and Database Integration<br>- ⚡ Fun Fact: I love cooking as much as I love coding! 🍳 ☕ Code with Coffee
+👨‍💻 About Me<br><br>🎓 BCA Graduate | Aspiring Data Scientist & Python Developer<br><br>- 🔭 I'm currently working on SQL Queries, Database Management, and Python Projects<br>- 🤝 I'm open to collaborating on Data Science, Python, Machine Learning, and API Development Projects<br>- 🌱 I'm currently learning Python, SQL, Data Science, and REST APIs<br>- 🐍 Exploring Python Libraries like NumPy, Pandas, Matplotlib, and Seaborn<br>- 🤖 Learning Machine Learning, Data Preprocessing, Data Visualization, and Statistical Analysis<br>- 🗄️ Working with MySQL, SQL Server, and Database Integration<br>- ⚡ Fun Fact: I love cooking as much as I love coding! 🍳
+☕ Code with Coffee!
 
 
 ## 🌐 Socials:
